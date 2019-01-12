@@ -1,0 +1,19 @@
+{
+    "name": "Openpedia",
+    "description": "Make wikipedia grat again!",
+    "version": "1.0",
+    "permissions": [
+      "tabs",
+      "activeTab"
+    ],
+    "background": {
+      "scripts": ["bg.js"],
+      "persistent": false
+    },
+    "browser_action": {
+      "default_title": "Make wikipedia grat again!",
+      "default_icon": "wiki.png"
+    },
+    "manifest_version": 2
+  }
+  
