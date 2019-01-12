@@ -10,10 +10,7 @@ https://tr.0wikipedia.org/wiki/Vincent_van_Gogh
 
 Tıklayıp bir süre bekleyip sonra linkin başına 0 eklemeye  üşendiğim için böyle bir extension yazdım.
 
-Extension şöyle çalışıyor. mesela bir yerde wikipedia linki gördüğünüz bir sitede extension iconu yükledikten sonra
-tarayıcıda gözüküyor hep ona tıklıyorsunuz bir kere. sonra tıkladığınız zaman linke sorunsuzca açıyor.
-
-Yani kısaca bir wikipedia linki görürseniz eklenti iconuna önce bir kez basın sonra linke tıklayın bu kadar basit.
+Bir wikipedia linki görürseniz eklenti iconuna önce bir kez basın sonra linke tıklayın.
 
 
 Kurulum için extension'ı bir yere indirin sonra
