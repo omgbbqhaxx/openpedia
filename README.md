@@ -1,4 +1,25 @@
 # openpedia
+Normalmente https://tr.wikipedia.org/wiki/vincent_van_gogh no se enciende el pavo en este enlace.
+
+Si pones 0 por wikipedia.
+
+https://tr.0wikipedia.org/wiki/vincent_van_gogh
+
+A continuación, puede acceder al sitio en el formulario.
+
+Escribí esta extensión porque hice clic y esperé un tiempo y luego comencé a agregar 0 por enlace.
+
+Si ve un enlace de wikipedia, presione el icono del complemento una vez antes y luego haga clic en el enlace.
+
+Descargar extensión para instalación
+
+chrome://extensions/
+
+Vaya al enlace de abajo y active el modo de desarrollador. A continuación, puede cargar desde artículos desempaquetados.
+
+
+
+Türkiye için ; 
 
 Normalde https://tr.wikipedia.org/wiki/Vincent_van_Gogh  bu linke türkiyeden giremiyorken.
 
